@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yashwanth-G22
 - 👀 I’m interested in facing challenges
 - 🌱 I’m currently learning React and redux
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on React, redux, node js project and others critical tasks as well 
+- 📫 How to reach me with mail gyeswanth2201@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
