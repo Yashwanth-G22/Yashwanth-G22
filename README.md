@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning React and redux
 - 💞️ I’m looking to collaborate on React, redux, node js project and others critical tasks as well 
 - 📫 How to reach me with mail gyeswanth2201@gmail.com and phNo: 6303482147
-- skills: Javascript, React, HTML, CSS, Redux, Node.js, Typescript, Recoil.js, vite, git, 
+- skills: Javascript, React, HTML, CSS, Redux, Node.js, Typescript, Recoil.js, vite, git,
+- Am updating the Technical skills and day by day
